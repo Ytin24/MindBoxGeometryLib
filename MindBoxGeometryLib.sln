@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxGeometryLib", "MindBoxGeometryLib\MindBoxGeometryLib.csproj", "{D8BF1BDD-D7CA-475D-8E8D-18B3CE5E9A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTest", "GeometryTest\GeometryTest.csproj", "{3CDFBC7C-9FE3-4067-B97D-0C905ADEAD86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8BF1BDD-D7CA-475D-8E8D-18B3CE5E9A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BF1BDD-D7CA-475D-8E8D-18B3CE5E9A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BF1BDD-D7CA-475D-8E8D-18B3CE5E9A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BF1BDD-D7CA-475D-8E8D-18B3CE5E9A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDFBC7C-9FE3-4067-B97D-0C905ADEAD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDFBC7C-9FE3-4067-B97D-0C905ADEAD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDFBC7C-9FE3-4067-B97D-0C905ADEAD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDFBC7C-9FE3-4067-B97D-0C905ADEAD86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF661D30-2714-4D46-8972-60C17F2A69D0}
+	EndGlobalSection
+EndGlobal
